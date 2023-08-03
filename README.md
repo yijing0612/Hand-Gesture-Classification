@@ -1,2 +1,4 @@
 # Undergraduate-Y2S2-HandGestureClassification
-deep learning is being emphasized more than typical machine learning methods by researchers as it has more potential in terms of performance and usage. In this project, our objective is to implement deep learning models to detect and identify hand gestures for 1 to 5. 
+Author: Lim Yi Jing, Chiam Yu Wei, Cheng Hung Xu, Lee Kah Yin
+
+This is a project developed in undergraduate Year 2 - Semester 2. The project is about building a hand gesture (0-5) classifier using CNN (PyTorch)
